@@ -58,10 +58,10 @@ Error Handling
 Project Structure
 
 src/
- └── main/
-      └── java/
-           └── org/example/
-                └── App.java
+main/
+      java/
+            org/example/
+                App.java
 pom.xml
 
 *****What I Learned***
