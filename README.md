@@ -5,6 +5,7 @@ A simple Command Line Interface (CLI) application built with Java 21 that fetche
 *************************************************
 Fetches recent public events of any GitHub user
 -Displays human-readable activity output
+
 -Handles different event types:
 -Push events
 -Issue creation
