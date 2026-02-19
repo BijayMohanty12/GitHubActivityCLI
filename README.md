@@ -3,7 +3,7 @@ GitHub Activity CLI
 A simple Command Line Interface (CLI) application built with Java 21 that fetches and displays a GitHub user's recent public activity using the GitHub REST API.
 
 *************************************************
-***Fetches recent public events of any GitHub user**
+      ***Fetches recent public events of any GitHub user**
 
 -Displays human-readable activity output
 
@@ -21,7 +21,7 @@ A simple Command Line Interface (CLI) application built with Java 21 that fetche
 
 -Accepts username as CLI argument
 
-*****Tech Stack****
+      *****Tech Stack****
 
 -Java 21
 
@@ -31,7 +31,7 @@ A simple Command Line Interface (CLI) application built with Java 21 that fetche
 
 -Jackson Databind (for JSON parsing)
 
-***How It Works***
+      ***How It Works***
 
 -Takes GitHub username as a command-line argument.
 
@@ -47,7 +47,7 @@ A simple Command Line Interface (CLI) application built with Java 21 that fetche
 
 -Prints formatted output to the terminal.
 
-Error Handling
+      ***Error Handling
 
 -Handles invalid username (404 response)
 
@@ -55,7 +55,7 @@ Error Handling
 
 -Safely checks JSON fields before accessing them
 
-Project Structure
+***Project Structure
 
 src/
 main/
@@ -64,7 +64,7 @@ main/
                 App.java
 pom.xml
 
-*****What I Learned***
+      *****What I Learned***
 
 -How HTTP requests work in Java
 
