@@ -3,7 +3,7 @@ GitHub Activity CLI
 A simple Command Line Interface (CLI) application built with Java 21 that fetches and displays a GitHub user's recent public activity using the GitHub REST API.
 
 *************************************************
-Fetches recent public events of any GitHub user
+***Fetches recent public events of any GitHub user**
 
 -Displays human-readable activity output
 
@@ -21,7 +21,7 @@ Fetches recent public events of any GitHub user
 
 -Accepts username as CLI argument
 
-****Tech Stack****
+*****Tech Stack****
 
 -Java 21
 
